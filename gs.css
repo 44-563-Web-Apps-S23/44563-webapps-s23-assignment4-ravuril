@@ -32,3 +32,14 @@
 #playname{
     color:rgba(20, 238, 143, 0.806)
 }
+table, td, th {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    width: 75%;
+    margin-top: 100px;
+    text-align: center;
+    padding: 15px;
+} 
+tr:nth-child(even) {background-color: #d7d7d3;}

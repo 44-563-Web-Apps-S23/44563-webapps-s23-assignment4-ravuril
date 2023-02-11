@@ -15,6 +15,7 @@
     color: black;
 }
 .direction:hover {
+    text-shadow: 2px 2px orange;
     background-color: yellow;
     color: red;
   }

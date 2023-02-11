@@ -1,0 +1,30 @@
+.speech {
+    font: 15px Arial, sans-serif; 
+    font-size: 15px;
+    color: black;
+}
+.direction { 
+    font: 15px Times, serif; 
+    font-size: 20px;
+    color: black;
+    background: CornflowerBlue;
+}
+.name{
+    font: 15px Times, serif; 
+    font-size: 25px;
+    color: black;
+}
+.direction:hover {
+    background-color: yellow;
+    color: red;
+  }
+.LADYSIMS{
+    color: rgba(225, 19, 170, 0.806);
+    font-weight: bold;
+    
+}
+.SIRHARRY{
+    color: violet;
+    font-weight: bold;
+
+}

@@ -37,9 +37,10 @@ table, td, th {
     border: 1px solid black;
 }
 table {
+    color:dodgerblue;
     border-collapse: collapse;
     width: 75%;
-    margin-top: 100px;
+    margin-left: 50px;
     text-align: center;
     padding: 15px;
 } 

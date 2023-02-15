@@ -24,11 +24,24 @@
     font-weight: bold;
     
 }
+.LADYSIMS:hover{
+    text-shadow: 2px 2px rgba(170, 225, 19, 0.806);
+    color:rgba(170, 225, 19, 0.806);
+    font-size: 30px;
+    border-style: solid;
+    border-color: yellow;
+
+}
 .SIRHARRY{
     color: violet;
     font-weight: bold;
-
-
+}
+.SIRHARRY:hover{
+    text-shadow: 2px 2px rgba(170, 225, 19, 0.806);
+    color:rgba(170, 225, 19, 0.806);
+    font-size: 25px;
+    border-style: solid;
+    border-color: yellow;
 }
 #playname{
     color:rgba(20, 238, 143, 0.806)

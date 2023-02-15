@@ -37,7 +37,7 @@
     font-weight: bold;
 }
 .SIRHARRY:hover{
-    text-shadow: 2px 2px rgba(170, 225, 19, 0.806);
+    text-shadow: 0 0 8px rgba(170, 225, 19, 0.806);
     color:rgba(170, 225, 19, 0.806);
     font-size: 25px;
     border-style: solid;
@@ -48,6 +48,9 @@
 }
 table, td, th {
     border: 1px solid black;
+}
+.fa-sharp, .fa-solid, .fa-truck-fast{
+    font-size: 250px;
 }
 table {
     color:dodgerblue;

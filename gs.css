@@ -61,3 +61,26 @@ table {
     padding: 15px;
 } 
 tr:nth-child(even) {background-color: #d7d7d3;}
+ul {
+    list-style-type: none;
+    margin: 100px;
+    overflow: hidden;
+    background-color: CornflowerBlue;
+    display: inline-block;
+  } 
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: red;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover:not(.active) {
+    background-color: yellow;
+  }
+  .active {
+    background-color: #04AA6D;
+  }
